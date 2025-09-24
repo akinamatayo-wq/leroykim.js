@@ -12,7 +12,7 @@ The function `reverseString(str)`:
 4. Returns the reversed string.
 
 ## 📂 File
-- **wolanLastname.js**  
+- **leroykim.js**  
   *(Replace `Lastname` with my actual surname before submission)*
 
 ## 🧪 Test Cases
