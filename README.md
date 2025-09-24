@@ -13,7 +13,6 @@ The function `reverseString(str)`:
 
 ## 📂 File
 - **leroykim.js**  
-  *(Replace `Lastname` with my actual surname before submission)*
 
 ## 🧪 Test Cases
 The following tests are included in the file:
